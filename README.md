@@ -29,3 +29,6 @@ The analysis was performed using a Jupyter notebook san_francisco_housing.ipynb.
 
 ## Conclusion
 This project provides an analysis of the real estate market in San Francisco. The visualizations and geospatial analysis provide valuable insights into the housing rental market and can be used to identify investment opportunities. The project provides a proof-of-concept for the proptech company's service of offering one-click property purchases and rentals.
+
+
+
