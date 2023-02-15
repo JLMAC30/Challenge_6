@@ -1,4 +1,4 @@
-# README
+# San Francisco Housing Market Analysis
 ## Introduction
 This project is an analysis of the housing rental market data in San Francisco. The goal of the project is to use data visualization and geospatial analysis to identify investment opportunities in the real estate market of San Francisco. The project is an attempt to create a trial for a proptech company that wants to offer an instant, one-click service for people to buy properties and then rent them. If the service proves popular in San Francisco, the company plans to expand to other markets.
 
